@@ -1,0 +1,2 @@
+B:\Git_Repositories\See_Battle\See_Battle\x64\Debug\See_Battle.exe
+B:\Git_Repositories\Sea_Battle\Sea_Battle\x64\Debug\Sea_Battle.exe
